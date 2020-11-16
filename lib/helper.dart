@@ -45,7 +45,7 @@
 
 //TODO: Passo 8 - Crie um método chamado getQuestion() que irá retornar a primeira questão da lista _questionData.
 
-//TODO: Passo 11 - Crie um método chamado getChoice1() que retorna o conteúdo textual para a primeira questão (choice1) da _questionData.
+//TODO: Passo 11 - Crie um método chamado getChoice1() que retorna o conteúdo textual da choice1 (escolha1) para a primeira questão da lista _questionData.
 
 //TODO: Passo 12 - Crie um método chamado getChoice2() que retorna a primeira questão (choice2) da _questionData.
 
