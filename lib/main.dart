@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//TODO: Passo 15 - Execute o app e veja se você consegue ver a primeira questão sendo exibida na tela.
+//TODO: Passo 15 - Execute o app novamente para ver as alterações sendo exibidas da tela.
 
 void main() => runApp(HarryPotterHouses());
 
