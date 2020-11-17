@@ -53,7 +53,7 @@
 
 //TODO: Passo 16 - Crie uma variável chamada questionNumber que recebe 0 (zero) como valor inicial. Ela servirá para mostrar qual questão está sendo exibida na tela para o usuário.
 
-//TODO: Passo 17 - Crie um método chamado nextQuestion, ele não irá retornar nada, porém, ele deve receber como parâmetro um inteiro que pode ser chamado de questionNumber e que receberá um número que representa a escolha do usuário.
+//TODO: Passo 17 - Crie um método chamado nextQuestion. Ele não retornará nada inicialmente, porém, ele deve receber como parâmetro um inteiro que pode ser chamado de userChoice e que receberá um número que representa a escolha do usuário.
 
 //TODO: Passo 20 - Faça download do fluxograma com as sequências para os possíveis resultados: https://drive.google.com/file/d/1vOI-Jr0Brp1LIQ7CDB8Y03PykWhWBmA2
 
