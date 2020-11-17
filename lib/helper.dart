@@ -51,7 +51,7 @@
 
 //TODO: Passo 25 - Altere a propriedade questionNumber para que esta seja privada, assim somente o helper.dart terá acesso direto a ela. Dica: você pode fazer isso clicando com o botão direito do mouse sobre o nome (questionNumber) e então selecionando a opção Refactor e na sequência Rename. Isso fará com que as alterações sejam aplicadas no escopo inteiro do projeto, ou seja, em todo local que está propriedade está sendo utilizada.
 
-//TODO: Passo 16 - Crie uma propriedade chamada questionNumber que recebe 0 (zero) como valor inicial. Ela servirá para mostrar qual questão está sendo exibida na tela para o usuário.
+//TODO: Passo 16 - Crie uma variável chamada questionNumber que recebe 0 (zero) como valor inicial. Ela servirá para mostrar qual questão está sendo exibida na tela para o usuário.
 
 //TODO: Passo 17 - Crie um método chamado nextQuestion, ele não irá retornar nada, porém, ele deve receber como parâmetro um inteiro que pode ser chamado de questionNumber e que receberá um número que representa a escolha do usuário.
 
